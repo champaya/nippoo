@@ -235,3 +235,6 @@ insights の更新がトランザクション管理になっていない。RPC �
 
 - supabase のサインイン/サインアップは(https://supabase.com/docs/guides/auth/server-side/nextjs)こちら参照
 - 法人に導入する場合は、supabase のサインイン/サインアップを email ではなく他の手段にする必要があると思われる。それに伴い、DDL の profile も email が不要に。
+
+## ライセンス
+MITライセンス
